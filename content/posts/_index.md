@@ -2,5 +2,5 @@
 title: "Posts"
 ---
 
-My writing through the ages.
+Writing
 
